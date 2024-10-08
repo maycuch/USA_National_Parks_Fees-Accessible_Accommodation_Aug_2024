@@ -2,7 +2,7 @@
 
 In this project, I have focused on obtaining data regarding ***USA National Parks entrance fees & passes*** and ***wheelchair accessible accommodation*** in the USA. 
 
-To review my work look at :
+In this repository you can find: 
 - `config.py` here you will need to sign up for National Service Park API in order to obtain your API Key and it can be easily done [here](https://www.nps.gov/subjects/developer/get-started.htm)
   
 - ***`data-sourcing`*** folder including:
