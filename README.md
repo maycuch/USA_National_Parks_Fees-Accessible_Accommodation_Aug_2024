@@ -4,7 +4,7 @@ In this project, I have focused on obtaining data regarding ***USA National Park
 
 To review my work look at :
 - `config.py` here you will need to sign up for National Service Park API in order to obtain your API Key and it can be easily done [here](https://www.nps.gov/subjects/developer/get-started.htm)
-- 
+  
 - ***`data-sourcing`*** folder including:
   -  `usa_nsp_fees_passes.py` - python code extracting data from [National Park Servicec API](https://www.nps.gov/subjects/developer/api-documentation.htm) and saving them into `usa_nsp_fees_passes.csv`
   -  `usa_overpass_turboaccommodation.geojson` which is a dataset downloaded from __OpenStreetMap (OSM)__ using [Overpass Turbo tool](https://overpass-turbo.eu/) covering accommodation (hotel hostel,guest_house, apartment, alipne_hut, camp_site, caravan_site) where the `wheelchair tag` is set as "yes" or "limited"
