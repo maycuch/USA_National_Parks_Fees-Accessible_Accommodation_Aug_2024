@@ -1,0 +1,18 @@
+Jupyter Notebook editor is necessary to run maria-jupyter.ipynb file.
+
+Required libraries:
+%pip install pandas
+%pip install requests
+%matplotlib
+
+Make sure these can be imported into you Jupyter notebook
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+import requests
+import csv
+from pprint import pprint as pp
+import json
+import sys
