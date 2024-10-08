@@ -1,5 +1,4 @@
 # USA_National_Parks_Fees_Accessible_Accommodation_Aug_2024
-# CFGGroupProject
 
 In this project, I have focused on obtaining data regarding ***USA National Parks entrance fees & passes*** and ***wheelchair accessible accommodation*** in the USA. 
 
