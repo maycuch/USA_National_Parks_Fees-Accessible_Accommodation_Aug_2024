@@ -3,9 +3,9 @@
 In this project, I have focused on obtaining data regarding ***USA National Parks entrance fees & passes*** and ***wheelchair accessible accommodation*** in the USA. 
 
 In this repository you can find: 
-- `config.py` you will need to sign up for National Service Park API in order to obtain your API Key and it can be easily done [here](https://www.nps.gov/subjects/developer/get-started.htm) and add it into file congig.py, row 1
-  
+ 
 - ***`data-sourcing`*** folder including:
+  -  `config.py` you will need to sign up for National Service Park API in order to obtain your API Key and it can be easily done [here](https://www.nps.gov/subjects/developer/get-started.htm) and add it into file congig.py, row 1
   -  `usa_nsp_fees_passes.py` - python code extracting data from [National Park Servicec API](https://www.nps.gov/subjects/developer/api-documentation.htm) and saving them into `usa_nsp_fees_passes.csv`
   -  `usa_overpass_turboaccommodation.geojson` which is a dataset downloaded from __OpenStreetMap (OSM)__ using [Overpass Turbo tool](https://overpass-turbo.eu/) covering accommodation (hotel hostel,guest_house, apartment, alipne_hut, camp_site, caravan_site) where the `wheelchair tag` is set as "yes" or "limited"
   -  `usa_accommodation_overpass_turbo.py` - pyhton code extracting and formatting data into desireable format from the above geojson file and saving it into `usa_accommodation.csv` file
