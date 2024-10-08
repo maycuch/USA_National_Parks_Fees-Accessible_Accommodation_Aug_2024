@@ -13,7 +13,7 @@ In this repository you can find:
 
 - ***`maria-jupyter.ipynb`*** - where you can see how I cleaned, explored and visualised data. In the last section of the notebook I focus on question *"Is there any correlation between level of entrance fees and average temperature?"*. My original assumption was that parks with warmer climate would have a higher entrance cost, as I thought, there would be more activities for people to enjoy. Unlike my original assumption, by analysing provided data, I discovered slightly negative correlation between level of entrance fees and average temperature. This can be seen especially for parks with highest annual entrance pass that tend to be in colder range of average annual temperature. One possible explanation could be the fact that parks with colder average temperature tend to have harsh weather conditions which then translates into higher maintainance costs.
 
-- `cleaned_usa_accommodation.csv` and `cleaned_usa_nsp_fees_passes.csv`  - these are files from data-sourcing folder but cleaned in order to be used in Jupyter file
+- `cleaned_usa_accommodation.csv`, `usa_accommodation_with_states_v2.csv` and `cleaned_usa_nsp_fees_passes.csv`   - these are files from data-sourcing folder but cleaned in order to be used in Jupyter file
   
 - `requirements.txt` highlighting what packages you need in order to run these files
   
