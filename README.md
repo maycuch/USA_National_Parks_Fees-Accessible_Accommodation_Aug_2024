@@ -3,7 +3,7 @@
 In this project, I have focused on obtaining data regarding ***USA National Parks entrance fees & passes*** and ***wheelchair accessible accommodation*** in the USA. 
 
 In this repository you can find: 
-- `config.py` you will need to sign up for National Service Park API in order to obtain your API Key and it can be easily done [here](https://www.nps.gov/subjects/developer/get-started.htm) and add it into this congif.py into row 1
+- `config.py` you will need to sign up for National Service Park API in order to obtain your API Key and it can be easily done [here](https://www.nps.gov/subjects/developer/get-started.htm) and add it into file congig.py, row 1
   
 - ***`data-sourcing`*** folder including:
   -  `usa_nsp_fees_passes.py` - python code extracting data from [National Park Servicec API](https://www.nps.gov/subjects/developer/api-documentation.htm) and saving them into `usa_nsp_fees_passes.csv`
